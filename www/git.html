@@ -20,7 +20,10 @@
 <link rel="stylesheet" href="ui/default/outline.css" type="text/css" media="screen" id="outlineStyle" />
 <link rel="stylesheet" href="ui/default/print.css" type="text/css" media="print" id="slidePrint" />
 <link rel="stylesheet" href="ui/default/opera.css" type="text/css" media="projection" id="operaFix" />
-<link rel="stylesheet" href="ui/cli.css" type="text/css" media="screen" id="cli" />
+<style type="text/css">
+pre.cli { color: lightgreen; background: black; padding: 1em; font-size:80%; }
+</style>
+
 <!-- S5 JS -->
 <script src="ui/default/slides.js" type="text/javascript"></script>
 </head>
@@ -62,15 +65,10 @@
 <li>[point five]</li>
 </ul>
 <pre class="cli">
-ama@localhost:~/biocomputacion/www$ git status
+ama@localhost:~/biocomputacion$ git status
 # On branch master
-# Untracked files:
-#   (use "git add &lt;file&gt;..." to include in what will be committed)
-#
-#       ./
-nothing added to commit but untracked files present (use "git add" to track)
-ama@localhost:~/biocomputacion/www$ 
-
+nothing to commit (working directory clean)
+ama@localhost:~/biocomputacion$ 
 </pre>
 <div class="handout">
 [any material that should appear in print but not on the slide]
