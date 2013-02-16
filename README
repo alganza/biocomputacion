@@ -1,5 +1,5 @@
 Este repositorio contiene los siguientes datos:
 
-README	- este fichero
+bin	- algunos scripts de utilidad para el curso
 seq	- ficheros con secuencias de ejemplo usadas durante el curso
-scripts	- algunos scripts de utilidad para el curso
+README	- este fichero
