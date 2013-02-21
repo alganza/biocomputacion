@@ -2,5 +2,6 @@ Este repositorio contiene los siguientes datos:
 
 bin	- algunos scripts de utilidad para el curso
 seq	- ficheros con secuencias de ejemplo usadas durante el curso
+test	- ficheros para pruebas
 www	- presentaciones
 README	- este fichero
